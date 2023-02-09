@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cuvette_dweepInReact_assignment/static/css/main.2cb433ef.css",
+    "main.js": "/cuvette_dweepInReact_assignment/static/js/main.253471a2.js",
+    "static/media/man_image.png": "/cuvette_dweepInReact_assignment/static/media/man_image.945d9c2d46768c17089d.png",
+    "index.html": "/cuvette_dweepInReact_assignment/index.html",
+    "main.2cb433ef.css.map": "/cuvette_dweepInReact_assignment/static/css/main.2cb433ef.css.map",
+    "main.253471a2.js.map": "/cuvette_dweepInReact_assignment/static/js/main.253471a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb433ef.css",
+    "static/js/main.253471a2.js"
+  ]
+}
